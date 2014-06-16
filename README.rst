@@ -60,6 +60,10 @@ django-pgallery
     :target: https://pypi.python.org/pypi/django-pgallery/
     :alt: Number of PyPI downloads
 
+.. image:: https://pypip.in/wheel/django-pgallery/badge.png
+    :target: https://pypi.python.org/pypi/django-pgallery/
+    :alt: Wheel Status
+
 .. image:: https://travis-ci.org/zsiciarz/django-pgallery.png?branch=master
     :target: https://travis-ci.org/zsiciarz/django-pgallery
 
@@ -94,6 +98,10 @@ pyaavso
     :target: https://pypi.python.org/pypi/pyaavso/
     :alt: Number of PyPI downloads
 
+.. image:: https://pypip.in/wheel/pyaavso/badge.png
+    :target: https://pypi.python.org/pypi/pyaavso/
+    :alt: Wheel Status
+
 .. image:: https://travis-ci.org/zsiciarz/pyaavso.png?branch=master
     :target: https://travis-ci.org/zsiciarz/pyaavso
 
@@ -114,6 +122,10 @@ pygcvs
 .. image:: https://pypip.in/d/pygcvs/badge.png
     :target: https://pypi.python.org/pypi/pygcvs/
     :alt: Number of PyPI downloads
+
+.. image:: https://pypip.in/wheel/pygcvs/badge.png
+    :target: https://pypi.python.org/pypi/pygcvs/
+    :alt: Wheel Status
 
 .. image:: https://travis-ci.org/zsiciarz/pygcvs.png?branch=master
     :target: https://travis-ci.org/zsiciarz/pygcvs
