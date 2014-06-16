@@ -80,3 +80,24 @@ pyaavso
 
 .. image:: https://coveralls.io/repos/zsiciarz/pyaavso/badge.png?branch=master
     :target: https://coveralls.io/r/zsiciarz/pyaavso?branch=master
+
+pygcvs
+======
+
+.. image:: https://requires.io/github/zsiciarz/pygcvs/requirements.png?branch=master
+    :target: https://requires.io/github/zsiciarz/pygcvs/requirements/?branch=master
+    :alt: Requirements Status
+
+.. image:: https://pypip.in/v/pygcvs/badge.png
+    :target: https://crate.io/packages/pygcvs/
+    :alt: Latest PyPI version
+
+.. image:: https://pypip.in/d/pygcvs/badge.png
+    :target: https://crate.io/packages/pygcvs/
+    :alt: Number of PyPI downloads
+
+.. image:: https://travis-ci.org/zsiciarz/pygcvs.png?branch=master
+    :target: https://travis-ci.org/zsiciarz/pygcvs
+
+.. image:: https://coveralls.io/repos/zsiciarz/pygcvs/badge.png?branch=master
+    :target: https://coveralls.io/r/zsiciarz/pygcvs?branch=master
