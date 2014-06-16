@@ -108,3 +108,16 @@ siciarz.net
 .. image:: https://requires.io/github/zsiciarz/siciarz.net/requirements.png?branch=master
     :target: https://requires.io/github/zsiciarz/siciarz.net/requirements/?branch=master
     :alt: Requirements Status
+
+variablestars.net
+=================
+
+.. image:: https://requires.io/github/zsiciarz/variablestars.net/requirements.png?branch=master
+    :target: https://requires.io/github/zsiciarz/variablestars.net/requirements/?branch=master
+    :alt: Requirements Status
+
+.. image:: https://travis-ci.org/zsiciarz/variablestars.net.png?branch=master
+    :target: https://travis-ci.org/zsiciarz/variablestars.net
+
+.. image:: https://coveralls.io/repos/zsiciarz/variablestars.net/badge.png?branch=master
+    :target: https://coveralls.io/r/zsiciarz/variablestars.net?branch=master
