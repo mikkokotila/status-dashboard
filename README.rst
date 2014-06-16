@@ -53,6 +53,13 @@ django-pgallery
 .. image:: https://coveralls.io/repos/zsiciarz/django-pgallery/badge.png?branch=master
     :target: https://coveralls.io/r/zsiciarz/django-pgallery?branch=master
 
+dspy
+====
+
+.. image:: https://requires.io/github/zsiciarz/dspy/requirements.png?branch=master
+    :target: https://requires.io/github/zsiciarz/dspy/requirements/?branch=master
+    :alt: Requirements Status
+
 pyaavso
 =======
 
