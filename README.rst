@@ -3,7 +3,7 @@ Status dashboard
 ================
 
 pyaavso
--------
+=======
 
 .. image:: https://pypip.in/v/pyaavso/badge.png
     :target: https://crate.io/packages/pyaavso/
