@@ -39,7 +39,7 @@ django-envelope
     :target: https://pypi.python.org/pypi/django-envelope/
     :alt: Wheel Status
 
-.. image:: https://travis-ci.org/zsiciarz/django-envelope.png?branch=develop
+.. image:: https://travis-ci.org/zsiciarz/django-envelope.svg?branch=develop
     :target: https://travis-ci.org/zsiciarz/django-envelope
 
 .. image:: https://coveralls.io/repos/zsiciarz/django-envelope/badge.png
@@ -64,7 +64,7 @@ django-pgallery
     :target: https://pypi.python.org/pypi/django-pgallery/
     :alt: Wheel Status
 
-.. image:: https://travis-ci.org/zsiciarz/django-pgallery.png?branch=master
+.. image:: https://travis-ci.org/zsiciarz/django-pgallery.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/django-pgallery
 
 .. image:: https://coveralls.io/repos/zsiciarz/django-pgallery/badge.png?branch=master
@@ -102,7 +102,7 @@ pyaavso
     :target: https://pypi.python.org/pypi/pyaavso/
     :alt: Wheel Status
 
-.. image:: https://travis-ci.org/zsiciarz/pyaavso.png?branch=master
+.. image:: https://travis-ci.org/zsiciarz/pyaavso.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/pyaavso
 
 .. image:: https://coveralls.io/repos/zsiciarz/pyaavso/badge.png?branch=master
@@ -127,7 +127,7 @@ pygcvs
     :target: https://pypi.python.org/pypi/pygcvs/
     :alt: Wheel Status
 
-.. image:: https://travis-ci.org/zsiciarz/pygcvs.png?branch=master
+.. image:: https://travis-ci.org/zsiciarz/pygcvs.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/pygcvs
 
 .. image:: https://coveralls.io/repos/zsiciarz/pygcvs/badge.png?branch=master
@@ -147,7 +147,7 @@ variablestars.net
     :target: https://requires.io/github/zsiciarz/variablestars.net/requirements/?branch=master
     :alt: Requirements Status
 
-.. image:: https://travis-ci.org/zsiciarz/variablestars.net.png?branch=master
+.. image:: https://travis-ci.org/zsiciarz/variablestars.net.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/variablestars.net
 
 .. image:: https://coveralls.io/repos/zsiciarz/variablestars.net/badge.png?branch=master
