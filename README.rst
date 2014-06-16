@@ -2,6 +2,8 @@
 Status dashboard
 ================
 
+All badges in one place.
+
 pyaavso
 =======
 
