@@ -42,7 +42,7 @@ django-envelope
 .. image:: https://travis-ci.org/zsiciarz/django-envelope.svg?branch=develop
     :target: https://travis-ci.org/zsiciarz/django-envelope
 
-.. image:: https://coveralls.io/repos/zsiciarz/django-envelope/badge.png
+.. image:: https://img.shields.io/coveralls/zsiciarz/django-envelope.svg
     :target: https://coveralls.io/r/zsiciarz/django-envelope
 
 django-pgallery
