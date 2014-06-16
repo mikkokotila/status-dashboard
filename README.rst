@@ -7,6 +7,10 @@ All badges in one place.
 pyaavso
 =======
 
+.. image:: https://requires.io/github/zsiciarz/pyaavso/requirements.png?branch=master
+    :target: https://requires.io/github/zsiciarz/pyaavso/requirements/?branch=master
+    :alt: Requirements Status
+
 .. image:: https://pypip.in/v/pyaavso/badge.png
     :target: https://crate.io/packages/pyaavso/
     :alt: Latest PyPI version
