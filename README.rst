@@ -60,6 +60,12 @@ dspy
     :target: https://requires.io/github/zsiciarz/dspy/requirements/?branch=master
     :alt: Requirements Status
 
+euler.rs
+========
+
+.. image:: https://travis-ci.org/zsiciarz/euler.rs.svg?branch=master
+    :target: https://travis-ci.org/zsiciarz/euler.rs
+
 pyaavso
 =======
 
