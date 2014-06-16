@@ -101,3 +101,10 @@ pygcvs
 
 .. image:: https://coveralls.io/repos/zsiciarz/pygcvs/badge.png?branch=master
     :target: https://coveralls.io/r/zsiciarz/pygcvs?branch=master
+
+siciarz.net
+===========
+
+.. image:: https://requires.io/github/zsiciarz/siciarz.net/requirements.png?branch=master
+    :target: https://requires.io/github/zsiciarz/siciarz.net/requirements/?branch=master
+    :alt: Requirements Status
