@@ -28,11 +28,11 @@ django-envelope
     :alt: Requirements Status
 
 .. image:: https://pypip.in/v/django-envelope/badge.png
-    :target: https://crate.io/packages/django-envelope/
+    :target: https://pypi.python.org/pypi/django-envelope/
     :alt: Latest PyPI version
 
 .. image:: https://pypip.in/d/django-envelope/badge.png
-    :target: https://crate.io/packages/django-envelope/
+    :target: https://pypi.python.org/pypi/django-envelope/
     :alt: Number of PyPI downloads
 
 .. image:: https://travis-ci.org/zsiciarz/django-envelope.png?branch=develop
@@ -49,11 +49,11 @@ django-pgallery
     :alt: Requirements Status
 
 .. image:: https://pypip.in/v/django-pgallery/badge.png
-    :target: https://crate.io/packages/django-pgallery/
+    :target: https://pypi.python.org/pypi/django-pgallery/
     :alt: Latest PyPI version
 
 .. image:: https://pypip.in/d/django-pgallery/badge.png
-    :target: https://crate.io/packages/django-pgallery/
+    :target: https://pypi.python.org/pypi/django-pgallery/
     :alt: Number of PyPI downloads
 
 .. image:: https://travis-ci.org/zsiciarz/django-pgallery.png?branch=master
@@ -83,11 +83,11 @@ pyaavso
     :alt: Requirements Status
 
 .. image:: https://pypip.in/v/pyaavso/badge.png
-    :target: https://crate.io/packages/pyaavso/
+    :target: https://pypi.python.org/pypi/pyaavso/
     :alt: Latest PyPI version
 
 .. image:: https://pypip.in/d/pyaavso/badge.png
-    :target: https://crate.io/packages/pyaavso/
+    :target: https://pypi.python.org/pypi/pyaavso/
     :alt: Number of PyPI downloads
 
 .. image:: https://travis-ci.org/zsiciarz/pyaavso.png?branch=master
@@ -104,11 +104,11 @@ pygcvs
     :alt: Requirements Status
 
 .. image:: https://pypip.in/v/pygcvs/badge.png
-    :target: https://crate.io/packages/pygcvs/
+    :target: https://pypi.python.org/pypi/pygcvs/
     :alt: Latest PyPI version
 
 .. image:: https://pypip.in/d/pygcvs/badge.png
-    :target: https://crate.io/packages/pygcvs/
+    :target: https://pypi.python.org/pypi/pygcvs/
     :alt: Number of PyPI downloads
 
 .. image:: https://travis-ci.org/zsiciarz/pygcvs.png?branch=master
