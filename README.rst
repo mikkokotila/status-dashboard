@@ -32,6 +32,27 @@ django-envelope
 .. image:: https://coveralls.io/repos/zsiciarz/django-envelope/badge.png
     :target: https://coveralls.io/r/zsiciarz/django-envelope
 
+django-pgallery
+===============
+
+.. image:: https://requires.io/github/zsiciarz/django-pgallery/requirements.png?branch=master
+    :target: https://requires.io/github/zsiciarz/django-pgallery/requirements/?branch=master
+    :alt: Requirements Status
+
+.. image:: https://pypip.in/v/django-pgallery/badge.png
+    :target: https://crate.io/packages/django-pgallery/
+    :alt: Latest PyPI version
+
+.. image:: https://pypip.in/d/django-pgallery/badge.png
+    :target: https://crate.io/packages/django-pgallery/
+    :alt: Number of PyPI downloads
+
+.. image:: https://travis-ci.org/zsiciarz/django-pgallery.png?branch=master
+    :target: https://travis-ci.org/zsiciarz/django-pgallery
+
+.. image:: https://coveralls.io/repos/zsiciarz/django-pgallery/badge.png?branch=master
+    :target: https://coveralls.io/r/zsiciarz/django-pgallery?branch=master
+
 pyaavso
 =======
 
