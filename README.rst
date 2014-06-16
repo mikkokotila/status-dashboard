@@ -35,6 +35,10 @@ django-envelope
     :target: https://pypi.python.org/pypi/django-envelope/
     :alt: Number of PyPI downloads
 
+.. image:: https://pypip.in/wheel/django-envelope/badge.png
+    :target: https://pypi.python.org/pypi/django-envelope/
+    :alt: Wheel Status
+
 .. image:: https://travis-ci.org/zsiciarz/django-envelope.png?branch=develop
     :target: https://travis-ci.org/zsiciarz/django-envelope
 
