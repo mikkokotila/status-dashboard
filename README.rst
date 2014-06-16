@@ -4,6 +4,13 @@ Status dashboard
 
 All badges in one place.
 
+aquila-dsp.org
+==============
+
+.. image:: https://requires.io/github/zsiciarz/aquila-dsp.org/requirements.png?branch=master
+    :target: https://requires.io/github/zsiciarz/aquila-dsp.org/requirements/?branch=master
+    :alt: Requirements Status
+
 pyaavso
 =======
 
