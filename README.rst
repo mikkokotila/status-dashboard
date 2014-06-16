@@ -4,6 +4,15 @@ Status dashboard
 
 All badges in one place.
 
+aquila
+======
+
+.. image:: https://travis-ci.org/zsiciarz/aquila.svg?branch=master
+    :target: https://travis-ci.org/zsiciarz/aquila
+
+.. image:: https://coveralls.io/repos/zsiciarz/aquila/badge.png?branch=master
+   :target: https://coveralls.io/r/zsiciarz/aquila?branch=master
+
 aquila-dsp.org
 ==============
 
