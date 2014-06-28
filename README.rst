@@ -31,7 +31,7 @@ django-envelope
     :target: https://pypi.python.org/pypi/django-envelope/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/d/django-envelope/badge.png
+.. image:: https://pypip.in/download/django-envelope/badge.png
     :target: https://pypi.python.org/pypi/django-envelope/
     :alt: Number of PyPI downloads
 
@@ -56,7 +56,7 @@ django-pgallery
     :target: https://pypi.python.org/pypi/django-pgallery/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/d/django-pgallery/badge.png
+.. image:: https://pypip.in/download/django-pgallery/badge.png
     :target: https://pypi.python.org/pypi/django-pgallery/
     :alt: Number of PyPI downloads
 
@@ -94,7 +94,7 @@ pyaavso
     :target: https://pypi.python.org/pypi/pyaavso/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/d/pyaavso/badge.png
+.. image:: https://pypip.in/download/pyaavso/badge.png
     :target: https://pypi.python.org/pypi/pyaavso/
     :alt: Number of PyPI downloads
 
@@ -119,7 +119,7 @@ pygcvs
     :target: https://pypi.python.org/pypi/pygcvs/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/d/pygcvs/badge.png
+.. image:: https://pypip.in/download/pygcvs/badge.png
     :target: https://pypi.python.org/pypi/pygcvs/
     :alt: Number of PyPI downloads
 
