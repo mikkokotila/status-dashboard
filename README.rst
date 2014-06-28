@@ -27,7 +27,7 @@ django-envelope
     :target: https://requires.io/github/zsiciarz/django-envelope/requirements/?branch=develop
     :alt: Requirements Status
 
-.. image:: https://pypip.in/v/django-envelope/badge.png
+.. image:: https://pypip.in/version/django-envelope/badge.png
     :target: https://pypi.python.org/pypi/django-envelope/
     :alt: Latest PyPI version
 
@@ -52,7 +52,7 @@ django-pgallery
     :target: https://requires.io/github/zsiciarz/django-pgallery/requirements/?branch=master
     :alt: Requirements Status
 
-.. image:: https://pypip.in/v/django-pgallery/badge.png
+.. image:: https://pypip.in/version/django-pgallery/badge.png
     :target: https://pypi.python.org/pypi/django-pgallery/
     :alt: Latest PyPI version
 
@@ -90,7 +90,7 @@ pyaavso
     :target: https://requires.io/github/zsiciarz/pyaavso/requirements/?branch=master
     :alt: Requirements Status
 
-.. image:: https://pypip.in/v/pyaavso/badge.png
+.. image:: https://pypip.in/version/pyaavso/badge.png
     :target: https://pypi.python.org/pypi/pyaavso/
     :alt: Latest PyPI version
 
@@ -115,7 +115,7 @@ pygcvs
     :target: https://requires.io/github/zsiciarz/pygcvs/requirements/?branch=master
     :alt: Requirements Status
 
-.. image:: https://pypip.in/v/pygcvs/badge.png
+.. image:: https://pypip.in/version/pygcvs/badge.png
     :target: https://pypi.python.org/pypi/pygcvs/
     :alt: Latest PyPI version
 
