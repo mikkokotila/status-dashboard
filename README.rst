@@ -27,15 +27,15 @@ django-envelope
     :target: https://requires.io/github/zsiciarz/django-envelope/requirements/?branch=develop
     :alt: Requirements Status
 
-.. image:: https://pypip.in/version/django-envelope/badge.png
+.. image:: https://pypip.in/version/django-envelope/badge.svg
     :target: https://pypi.python.org/pypi/django-envelope/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/download/django-envelope/badge.png
+.. image:: https://pypip.in/download/django-envelope/badge.svg
     :target: https://pypi.python.org/pypi/django-envelope/
     :alt: Number of PyPI downloads
 
-.. image:: https://pypip.in/wheel/django-envelope/badge.png
+.. image:: https://pypip.in/wheel/django-envelope/badge.svg
     :target: https://pypi.python.org/pypi/django-envelope/
     :alt: Wheel Status
 
