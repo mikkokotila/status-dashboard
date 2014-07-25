@@ -35,6 +35,10 @@ django-envelope
     :target: https://pypi.python.org/pypi/django-envelope/
     :alt: Number of PyPI downloads
 
+.. image:: https://pypip.in/py_versions/django-envelope/badge.svg
+    :target: https://pypi.python.org/pypi/django-envelope/
+    :alt: Supported Python versions
+
 .. image:: https://pypip.in/wheel/django-envelope/badge.svg
     :target: https://pypi.python.org/pypi/django-envelope/
     :alt: Wheel Status
@@ -59,6 +63,10 @@ django-pgallery
 .. image:: https://pypip.in/download/django-pgallery/badge.svg
     :target: https://pypi.python.org/pypi/django-pgallery/
     :alt: Number of PyPI downloads
+
+.. image:: https://pypip.in/py_versions/django-pgallery/badge.svg
+    :target: https://pypi.python.org/pypi/django-pgallery/
+    :alt: Supported Python versions
 
 .. image:: https://pypip.in/wheel/django-pgallery/badge.svg
     :target: https://pypi.python.org/pypi/django-pgallery/
@@ -98,6 +106,10 @@ pyaavso
     :target: https://pypi.python.org/pypi/pyaavso/
     :alt: Number of PyPI downloads
 
+.. image:: https://pypip.in/py_versions/pyaavso/badge.svg
+    :target: https://pypi.python.org/pypi/pyaavso/
+    :alt: Supported Python versions
+
 .. image:: https://pypip.in/wheel/pyaavso/badge.svg
     :target: https://pypi.python.org/pypi/pyaavso/
     :alt: Wheel Status
@@ -122,6 +134,10 @@ pygcvs
 .. image:: https://pypip.in/download/pygcvs/badge.svg
     :target: https://pypi.python.org/pypi/pygcvs/
     :alt: Number of PyPI downloads
+
+.. image:: https://pypip.in/py_versions/pygcvs/badge.svg
+    :target: https://pypi.python.org/pypi/pygcvs/
+    :alt: Supported Python versions
 
 .. image:: https://pypip.in/wheel/pygcvs/badge.svg
     :target: https://pypi.python.org/pypi/pygcvs/
