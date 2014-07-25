@@ -52,15 +52,15 @@ django-pgallery
     :target: https://requires.io/github/zsiciarz/django-pgallery/requirements/?branch=master
     :alt: Requirements Status
 
-.. image:: https://pypip.in/version/django-pgallery/badge.png
+.. image:: https://pypip.in/version/django-pgallery/badge.svg
     :target: https://pypi.python.org/pypi/django-pgallery/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/download/django-pgallery/badge.png
+.. image:: https://pypip.in/download/django-pgallery/badge.svg
     :target: https://pypi.python.org/pypi/django-pgallery/
     :alt: Number of PyPI downloads
 
-.. image:: https://pypip.in/wheel/django-pgallery/badge.png
+.. image:: https://pypip.in/wheel/django-pgallery/badge.svg
     :target: https://pypi.python.org/pypi/django-pgallery/
     :alt: Wheel Status
 
@@ -90,15 +90,15 @@ pyaavso
     :target: https://requires.io/github/zsiciarz/pyaavso/requirements/?branch=master
     :alt: Requirements Status
 
-.. image:: https://pypip.in/version/pyaavso/badge.png
+.. image:: https://pypip.in/version/pyaavso/badge.svg
     :target: https://pypi.python.org/pypi/pyaavso/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/download/pyaavso/badge.png
+.. image:: https://pypip.in/download/pyaavso/badge.svg
     :target: https://pypi.python.org/pypi/pyaavso/
     :alt: Number of PyPI downloads
 
-.. image:: https://pypip.in/wheel/pyaavso/badge.png
+.. image:: https://pypip.in/wheel/pyaavso/badge.svg
     :target: https://pypi.python.org/pypi/pyaavso/
     :alt: Wheel Status
 
@@ -115,15 +115,15 @@ pygcvs
     :target: https://requires.io/github/zsiciarz/pygcvs/requirements/?branch=master
     :alt: Requirements Status
 
-.. image:: https://pypip.in/version/pygcvs/badge.png
+.. image:: https://pypip.in/version/pygcvs/badge.svg
     :target: https://pypi.python.org/pypi/pygcvs/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/download/pygcvs/badge.png
+.. image:: https://pypip.in/download/pygcvs/badge.svg
     :target: https://pypi.python.org/pypi/pygcvs/
     :alt: Number of PyPI downloads
 
-.. image:: https://pypip.in/wheel/pygcvs/badge.png
+.. image:: https://pypip.in/wheel/pygcvs/badge.svg
     :target: https://pypi.python.org/pypi/pygcvs/
     :alt: Wheel Status
 
