@@ -13,15 +13,15 @@ All badges in one place.
 .. image:: https://coveralls.io/repos/zsiciarz/aquila/badge.png?branch=master
    :target: https://coveralls.io/r/zsiciarz/aquila?branch=master
 
-aquila-dsp.org
-==============
+`aquila-dsp.org <https://github.com/zsiciarz/aquila-dsp.org>`_
+==============================================================
 
 .. image:: https://requires.io/github/zsiciarz/aquila-dsp.org/requirements.png?branch=master
     :target: https://requires.io/github/zsiciarz/aquila-dsp.org/requirements/?branch=master
     :alt: Requirements Status
 
-django-envelope
-===============
+`django-envelope <https://github.com/zsiciarz/django-envelope>`_
+================================================================
 
 .. image:: https://requires.io/github/zsiciarz/django-envelope/requirements.png?branch=develop
     :target: https://requires.io/github/zsiciarz/django-envelope/requirements/?branch=develop
@@ -49,8 +49,8 @@ django-envelope
 .. image:: https://coveralls.io/repos/zsiciarz/django-envelope/badge.png
     :target: https://coveralls.io/r/zsiciarz/django-envelope
 
-django-pgallery
-===============
+`django-pgallery <https://github.com/zsiciarz/django-pgallery>`_
+================================================================
 
 .. image:: https://requires.io/github/zsiciarz/django-pgallery/requirements.png?branch=master
     :target: https://requires.io/github/zsiciarz/django-pgallery/requirements/?branch=master
@@ -78,21 +78,21 @@ django-pgallery
 .. image:: https://coveralls.io/repos/zsiciarz/django-pgallery/badge.png?branch=master
     :target: https://coveralls.io/r/zsiciarz/django-pgallery?branch=master
 
-dspy
-====
+`dspy <https://github.com/zsiciarz/dspy>`_
+==========================================
 
 .. image:: https://requires.io/github/zsiciarz/dspy/requirements.png?branch=master
     :target: https://requires.io/github/zsiciarz/dspy/requirements/?branch=master
     :alt: Requirements Status
 
-euler.rs
-========
+`euler.rs <https://github.com/zsiciarz/euler.rs>`_
+==================================================
 
 .. image:: https://travis-ci.org/zsiciarz/euler.rs.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/euler.rs
 
-pyaavso
-=======
+`pyaavso <https://github.com/zsiciarz/pyaavso>`_
+================================================
 
 .. image:: https://requires.io/github/zsiciarz/pyaavso/requirements.png?branch=master
     :target: https://requires.io/github/zsiciarz/pyaavso/requirements/?branch=master
@@ -120,8 +120,8 @@ pyaavso
 .. image:: https://coveralls.io/repos/zsiciarz/pyaavso/badge.png?branch=master
     :target: https://coveralls.io/r/zsiciarz/pyaavso?branch=master
 
-pygcvs
-======
+`pygcvs <https://github.com/zsiciarz/pygcvs>`_
+==============================================
 
 .. image:: https://requires.io/github/zsiciarz/pygcvs/requirements.png?branch=master
     :target: https://requires.io/github/zsiciarz/pygcvs/requirements/?branch=master
@@ -149,15 +149,15 @@ pygcvs
 .. image:: https://coveralls.io/repos/zsiciarz/pygcvs/badge.png?branch=master
     :target: https://coveralls.io/r/zsiciarz/pygcvs?branch=master
 
-siciarz.net
-===========
+`siciarz.net <https://github.com/zsiciarz/siciarz.net>`_
+========================================================
 
 .. image:: https://requires.io/github/zsiciarz/siciarz.net/requirements.png?branch=master
     :target: https://requires.io/github/zsiciarz/siciarz.net/requirements/?branch=master
     :alt: Requirements Status
 
-variablestars.net
-=================
+`variablestars.net <https://github.com/zsiciarz/variablestars.net>`_
+====================================================================
 
 .. image:: https://requires.io/github/zsiciarz/variablestars.net/requirements.png?branch=master
     :target: https://requires.io/github/zsiciarz/variablestars.net/requirements/?branch=master
