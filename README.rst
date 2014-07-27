@@ -4,8 +4,8 @@ Status dashboard
 
 All badges in one place.
 
-[aquila](https://github.com/zsiciarz/aquila)
-============================================
+`aquila <https://github.com/zsiciarz/aquila>`_
+==============================================
 
 .. image:: https://travis-ci.org/zsiciarz/aquila.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/aquila
