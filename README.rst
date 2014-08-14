@@ -13,6 +13,9 @@ All badges in one place.
 .. image:: https://coveralls.io/repos/zsiciarz/aquila/badge.png?branch=master
    :target: https://coveralls.io/r/zsiciarz/aquila?branch=master
 
+.. image:: https://scan.coverity.com/projects/2786/badge.svg
+   :target: https://scan.coverity.com/projects/2786
+
 `aquila-dsp.org <https://github.com/zsiciarz/aquila-dsp.org>`_
 ==============================================================
 
