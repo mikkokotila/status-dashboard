@@ -152,6 +152,12 @@ All badges in one place.
 .. image:: https://coveralls.io/repos/zsiciarz/pygcvs/badge.png?branch=master
     :target: https://coveralls.io/r/zsiciarz/pygcvs?branch=master
 
+`rust-cpuid <https://github.com/zsiciarz/rust-cpuid>`_
+======================================================
+
+.. image:: https://travis-ci.org/zsiciarz/rust-cpuid.svg?branch=master
+    :target: https://travis-ci.org/zsiciarz/rust-cpuid
+
 `siciarz.net <https://github.com/zsiciarz/siciarz.net>`_
 ========================================================
 
