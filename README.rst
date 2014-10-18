@@ -94,6 +94,15 @@ All badges in one place.
 .. image:: https://travis-ci.org/zsiciarz/euler.rs.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/euler.rs
 
+`gtlaunch <https://github.com/zsiciarz/gtlaunch>`_
+==================================================
+
+.. image:: https://travis-ci.org/zsiciarz/gtlaunch.svg?branch=master
+    :target: https://travis-ci.org/zsiciarz/gtlaunch
+
+.. image:: https://coveralls.io/repos/zsiciarz/gtlaunch/badge.png?branch=master
+    :target: https://coveralls.io/r/zsiciarz/gtlaunch?branch=master
+
 `pyaavso <https://github.com/zsiciarz/pyaavso>`_
 ================================================
 
