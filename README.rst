@@ -113,11 +113,11 @@ All badges in one place.
     :target: https://pypi.python.org/pypi/gtlaunch/
     :alt: Wheel Status
 
-.. image:: https://travis-ci.org/zsiciarz/gtlaunch.svg?branch=master
-    :target: https://travis-ci.org/zsiciarz/gtlaunch
+.. image:: https://travis-ci.org/GoldenLine/gtlaunch.svg?branch=master
+    :target: https://travis-ci.org/GoldenLine/gtlaunch
 
-.. image:: https://coveralls.io/repos/zsiciarz/gtlaunch/badge.png?branch=master
-    :target: https://coveralls.io/r/zsiciarz/gtlaunch?branch=master
+.. image:: https://coveralls.io/repos/GoldenLine/gtlaunch/badge.png?branch=master
+    :target: https://coveralls.io/r/GoldenLine/gtlaunch?branch=master
 
 `pyaavso <https://github.com/zsiciarz/pyaavso>`_
 ================================================
