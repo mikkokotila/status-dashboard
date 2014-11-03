@@ -7,6 +7,9 @@ All badges in one place.
 `aquila <https://github.com/zsiciarz/aquila>`_
 ==============================================
 
+.. image:: https://ci.appveyor.com/api/projects/status/github/zsiciarz/aquila?branch=master&svg=true
+    :target: https://ci.appveyor.com/project/zsiciarz/aquila
+
 .. image:: https://travis-ci.org/zsiciarz/aquila.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/aquila
 
