@@ -97,8 +97,8 @@ All badges in one place.
 .. image:: https://travis-ci.org/zsiciarz/euler.rs.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/euler.rs
 
-`gtlaunch <https://github.com/zsiciarz/gtlaunch>`_
-==================================================
+`gtlaunch <https://github.com/GoldenLine/gtlaunch>`_
+====================================================
 
 .. image:: https://pypip.in/version/gtlaunch/badge.svg
     :target: https://pypi.python.org/pypi/gtlaunch/
