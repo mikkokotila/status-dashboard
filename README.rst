@@ -91,6 +91,12 @@ All badges in one place.
     :target: https://requires.io/github/zsiciarz/dspy/requirements/?branch=master
     :alt: Requirements Status
 
+`euler <https://github.com/zsiciarz/euler>`_
+==================================================
+
+.. image:: https://travis-ci.org/zsiciarz/euler.svg?branch=master
+    :target: https://travis-ci.org/zsiciarz/euler
+
 `euler.rs <https://github.com/zsiciarz/euler.rs>`_
 ==================================================
 
