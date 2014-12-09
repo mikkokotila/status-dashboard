@@ -4,6 +4,12 @@ Status dashboard
 
 All badges in one place.
 
+`24daysofrust <https://github.com/zsiciarz/24daysofrust>`_
+==========================================================
+
+.. image:: https://travis-ci.org/zsiciarz/24daysofrust.svg?branch=master
+    :target: https://travis-ci.org/zsiciarz/24daysofrust
+
 `aquila <https://github.com/zsiciarz/aquila>`_
 ==============================================
 
