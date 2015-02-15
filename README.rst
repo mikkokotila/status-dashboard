@@ -205,6 +205,9 @@ All badges in one place.
     :target: https://requires.io/github/zsiciarz/siciarz.net/requirements/?branch=master
     :alt: Requirements Status
 
+.. image:: https://travis-ci.org/zsiciarz/siciarz.net.svg?branch=master
+    :target: https://travis-ci.org/zsiciarz/siciarz.net
+
 `variablestars.net <https://github.com/zsiciarz/variablestars.net>`_
 ====================================================================
 
