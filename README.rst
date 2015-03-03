@@ -195,6 +195,9 @@ All badges in one place.
 `rust-cpuid <https://github.com/zsiciarz/rust-cpuid>`_
 ======================================================
 
+.. image:: https://img.shields.io/crates/v/cpuid.svg
+    :target: https://crates.io/crates/cpuid
+
 .. image:: https://travis-ci.org/zsiciarz/rust-cpuid.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/rust-cpuid
 
