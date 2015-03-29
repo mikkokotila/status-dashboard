@@ -211,6 +211,9 @@ All badges in one place.
 .. image:: https://travis-ci.org/zsiciarz/siciarz.net.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/siciarz.net
 
+.. image:: https://coveralls.io/repos/zsiciarz/siciarz.net/badge.svg?branch=master
+  :target: https://coveralls.io/r/zsiciarz/siciarz.net?branch=master
+
 `variablestars.net <https://github.com/zsiciarz/variablestars.net>`_
 ====================================================================
 
