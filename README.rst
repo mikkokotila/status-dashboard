@@ -201,6 +201,12 @@ All badges in one place.
 .. image:: https://travis-ci.org/zsiciarz/rust-cpuid.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/rust-cpuid
 
+`rust-ffi-stringtools <https://github.com/zsiciarz/rust-ffi-stringtools>`_
+==========================================================================
+
+.. image:: https://travis-ci.org/zsiciarz/rust-ffi-stringtools.svg?branch=master
+    :target: https://travis-ci.org/zsiciarz/rust-ffi-stringtools
+
 `siciarz.net <https://github.com/zsiciarz/siciarz.net>`_
 ========================================================
 
