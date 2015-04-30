@@ -207,6 +207,12 @@ All badges in one place.
 .. image:: https://travis-ci.org/zsiciarz/rust-ffi-stringtools.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/rust-ffi-stringtools
 
+`rustwarsaw.org <https://github.com/rustwarsaw/rustwarsaw.org>`_
+================================================================
+
+.. image:: https://travis-ci.org/rustwarsaw/rustwarsaw.org.svg?branch=master
+    :target: https://travis-ci.org/rustwarsaw/rustwarsaw.org
+
 `siciarz.net <https://github.com/zsiciarz/siciarz.net>`_
 ========================================================
 
