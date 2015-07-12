@@ -19,7 +19,7 @@ All badges in one place.
 .. image:: https://travis-ci.org/zsiciarz/aquila.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/aquila
 
-.. image:: https://coveralls.io/repos/zsiciarz/aquila/badge.png?branch=master
+.. image:: https://coveralls.io/repos/zsiciarz/aquila/badge.svg?branch=master
    :target: https://coveralls.io/r/zsiciarz/aquila?branch=master
 
 .. image:: https://scan.coverity.com/projects/2786/badge.svg
@@ -58,7 +58,7 @@ All badges in one place.
 .. image:: https://travis-ci.org/zsiciarz/django-envelope.svg?branch=develop
     :target: https://travis-ci.org/zsiciarz/django-envelope
 
-.. image:: https://coveralls.io/repos/zsiciarz/django-envelope/badge.png
+.. image:: https://coveralls.io/repos/zsiciarz/django-envelope/badge.svg
     :target: https://coveralls.io/r/zsiciarz/django-envelope
 
 `django-pgallery <https://github.com/zsiciarz/django-pgallery>`_
@@ -87,7 +87,7 @@ All badges in one place.
 .. image:: https://travis-ci.org/zsiciarz/django-pgallery.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/django-pgallery
 
-.. image:: https://coveralls.io/repos/zsiciarz/django-pgallery/badge.png?branch=master
+.. image:: https://coveralls.io/repos/zsiciarz/django-pgallery/badge.svg?branch=master
     :target: https://coveralls.io/r/zsiciarz/django-pgallery?branch=master
 
 `dspy <https://github.com/zsiciarz/dspy>`_
@@ -131,7 +131,7 @@ All badges in one place.
 .. image:: https://travis-ci.org/GoldenLine/gtlaunch.svg?branch=master
     :target: https://travis-ci.org/GoldenLine/gtlaunch
 
-.. image:: https://coveralls.io/repos/GoldenLine/gtlaunch/badge.png?branch=master
+.. image:: https://coveralls.io/repos/GoldenLine/gtlaunch/badge.svg?branch=master
     :target: https://coveralls.io/r/GoldenLine/gtlaunch?branch=master
 
 `pyaavso <https://github.com/zsiciarz/pyaavso>`_
@@ -160,7 +160,7 @@ All badges in one place.
 .. image:: https://travis-ci.org/zsiciarz/pyaavso.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/pyaavso
 
-.. image:: https://coveralls.io/repos/zsiciarz/pyaavso/badge.png?branch=master
+.. image:: https://coveralls.io/repos/zsiciarz/pyaavso/badge.svg?branch=master
     :target: https://coveralls.io/r/zsiciarz/pyaavso?branch=master
 
 `pygcvs <https://github.com/zsiciarz/pygcvs>`_
@@ -189,7 +189,7 @@ All badges in one place.
 .. image:: https://travis-ci.org/zsiciarz/pygcvs.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/pygcvs
 
-.. image:: https://coveralls.io/repos/zsiciarz/pygcvs/badge.png?branch=master
+.. image:: https://coveralls.io/repos/zsiciarz/pygcvs/badge.svg?branch=master
     :target: https://coveralls.io/r/zsiciarz/pygcvs?branch=master
 
 `rust-cpuid <https://github.com/zsiciarz/rust-cpuid>`_
@@ -239,5 +239,5 @@ All badges in one place.
 .. image:: https://travis-ci.org/zsiciarz/variablestars.net.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/variablestars.net
 
-.. image:: https://coveralls.io/repos/zsiciarz/variablestars.net/badge.png?branch=master
+.. image:: https://coveralls.io/repos/zsiciarz/variablestars.net/badge.svg?branch=master
     :target: https://coveralls.io/r/zsiciarz/variablestars.net?branch=master
