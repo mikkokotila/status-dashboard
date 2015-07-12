@@ -28,14 +28,14 @@ All badges in one place.
 `aquila-dsp.org <https://github.com/zsiciarz/aquila-dsp.org>`_
 ==============================================================
 
-.. image:: https://requires.io/github/zsiciarz/aquila-dsp.org/requirements.png?branch=master
+.. image:: https://requires.io/github/zsiciarz/aquila-dsp.org/requirements.svg?branch=master
     :target: https://requires.io/github/zsiciarz/aquila-dsp.org/requirements/?branch=master
     :alt: Requirements Status
 
 `django-envelope <https://github.com/zsiciarz/django-envelope>`_
 ================================================================
 
-.. image:: https://requires.io/github/zsiciarz/django-envelope/requirements.png?branch=develop
+.. image:: https://requires.io/github/zsiciarz/django-envelope/requirements.svg?branch=develop
     :target: https://requires.io/github/zsiciarz/django-envelope/requirements/?branch=develop
     :alt: Requirements Status
 
@@ -64,7 +64,7 @@ All badges in one place.
 `django-pgallery <https://github.com/zsiciarz/django-pgallery>`_
 ================================================================
 
-.. image:: https://requires.io/github/zsiciarz/django-pgallery/requirements.png?branch=master
+.. image:: https://requires.io/github/zsiciarz/django-pgallery/requirements.svg?branch=master
     :target: https://requires.io/github/zsiciarz/django-pgallery/requirements/?branch=master
     :alt: Requirements Status
 
@@ -93,7 +93,7 @@ All badges in one place.
 `dspy <https://github.com/zsiciarz/dspy>`_
 ==========================================
 
-.. image:: https://requires.io/github/zsiciarz/dspy/requirements.png?branch=master
+.. image:: https://requires.io/github/zsiciarz/dspy/requirements.svg?branch=master
     :target: https://requires.io/github/zsiciarz/dspy/requirements/?branch=master
     :alt: Requirements Status
 
@@ -137,7 +137,7 @@ All badges in one place.
 `pyaavso <https://github.com/zsiciarz/pyaavso>`_
 ================================================
 
-.. image:: https://requires.io/github/zsiciarz/pyaavso/requirements.png?branch=master
+.. image:: https://requires.io/github/zsiciarz/pyaavso/requirements.svg?branch=master
     :target: https://requires.io/github/zsiciarz/pyaavso/requirements/?branch=master
     :alt: Requirements Status
 
@@ -166,7 +166,7 @@ All badges in one place.
 `pygcvs <https://github.com/zsiciarz/pygcvs>`_
 ==============================================
 
-.. image:: https://requires.io/github/zsiciarz/pygcvs/requirements.png?branch=master
+.. image:: https://requires.io/github/zsiciarz/pygcvs/requirements.svg?branch=master
     :target: https://requires.io/github/zsiciarz/pygcvs/requirements/?branch=master
     :alt: Requirements Status
 
@@ -219,7 +219,7 @@ All badges in one place.
 `siciarz.net <https://github.com/zsiciarz/siciarz.net>`_
 ========================================================
 
-.. image:: https://requires.io/github/zsiciarz/siciarz.net/requirements.png?branch=master
+.. image:: https://requires.io/github/zsiciarz/siciarz.net/requirements.svg?branch=master
     :target: https://requires.io/github/zsiciarz/siciarz.net/requirements/?branch=master
     :alt: Requirements Status
 
@@ -232,7 +232,7 @@ All badges in one place.
 `variablestars.net <https://github.com/zsiciarz/variablestars.net>`_
 ====================================================================
 
-.. image:: https://requires.io/github/zsiciarz/variablestars.net/requirements.png?branch=master
+.. image:: https://requires.io/github/zsiciarz/variablestars.net/requirements.svg?branch=master
     :target: https://requires.io/github/zsiciarz/variablestars.net/requirements/?branch=master
     :alt: Requirements Status
 
