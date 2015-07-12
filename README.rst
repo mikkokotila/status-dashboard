@@ -112,19 +112,19 @@ All badges in one place.
 `gtlaunch <https://github.com/GoldenLine/gtlaunch>`_
 ====================================================
 
-.. image:: https://pypip.in/version/gtlaunch/badge.svg
+.. image:: https://img.shields.io/pypi/v/gtlaunch.svg
     :target: https://pypi.python.org/pypi/gtlaunch/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/download/gtlaunch/badge.svg
+.. image:: https://img.shields.io/pypi/dm/gtlaunch.svg
     :target: https://pypi.python.org/pypi/gtlaunch/
     :alt: Number of PyPI downloads
 
-.. image:: https://pypip.in/py_versions/gtlaunch/badge.svg
+.. image:: https://img.shields.io/pypi/pyversions/gtlaunch.svg
     :target: https://pypi.python.org/pypi/gtlaunch/
     :alt: Supported Python versions
 
-.. image:: https://pypip.in/wheel/gtlaunch/badge.svg
+.. image:: https://img.shields.io/pypi/wheel/gtlaunch.svg
     :target: https://pypi.python.org/pypi/gtlaunch/
     :alt: Wheel Status
 
