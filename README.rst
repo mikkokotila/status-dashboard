@@ -61,6 +61,24 @@ All badges in one place.
 .. image:: https://coveralls.io/repos/zsiciarz/django-envelope/badge.svg
     :target: https://coveralls.io/r/zsiciarz/django-envelope
 
+`django-markitup <https://github.com/zsiciarz/django-markitup>`_
+================================================================
+
+.. image:: https://img.shields.io/pypi/v/django-markitup.svg
+    :target: https://pypi.python.org/pypi/django-markitup/
+    :alt: Latest PyPI version
+
+.. image:: https://img.shields.io/pypi/dm/django-markitup.svg
+    :target: https://pypi.python.org/pypi/django-markitup/
+    :alt: Number of PyPI downloads
+
+.. image:: https://img.shields.io/pypi/pyversions/django-markitup.svg
+    :target: https://pypi.python.org/pypi/django-markitup/
+    :alt: Supported Python versions
+
+.. image:: https://travis-ci.org/zsiciarz/django-markitup.svg
+    :target: https://travis-ci.org/zsiciarz/django-markitup
+
 `django-pgallery <https://github.com/zsiciarz/django-pgallery>`_
 ================================================================
 
