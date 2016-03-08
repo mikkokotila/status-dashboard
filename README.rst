@@ -241,7 +241,7 @@ All badges in one place.
     :target: https://travis-ci.org/rustwarsaw/rustwarsaw.org
 
 .. image:: http://clippy.bashy.io/github/rustwarsaw/rustwarsaw.org/master/badge.svg
-    :target:http://clippy.bashy.io/github/rustwarsaw/rustwarsaw.org/master/log
+    :target: http://clippy.bashy.io/github/rustwarsaw/rustwarsaw.org/master/log
 
 `siciarz.net <https://github.com/zsiciarz/siciarz.net>`_
 ========================================================
