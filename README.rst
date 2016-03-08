@@ -127,6 +127,9 @@ All badges in one place.
 .. image:: https://travis-ci.org/zsiciarz/euler.rs.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/euler.rs
 
+.. image:: http://clippy.bashy.io/github/zsiciarz/euler.rs/master/badge.svg
+    :target:http://clippy.bashy.io/github/zsiciarz/euler.rs/master/log
+
 `gtlaunch <https://github.com/GoldenLine/gtlaunch>`_
 ====================================================
 
