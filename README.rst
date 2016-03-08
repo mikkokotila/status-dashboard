@@ -237,6 +237,9 @@ All badges in one place.
 .. image:: https://travis-ci.org/rustwarsaw/rustwarsaw.org.svg?branch=master
     :target: https://travis-ci.org/rustwarsaw/rustwarsaw.org
 
+.. image:: http://clippy.bashy.io/github/rustwarsaw/rustwarsaw.org/master/badge.svg
+    :target:http://clippy.bashy.io/github/rustwarsaw/rustwarsaw.org/master/log
+
 `siciarz.net <https://github.com/zsiciarz/siciarz.net>`_
 ========================================================
 
