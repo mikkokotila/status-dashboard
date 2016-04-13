@@ -250,6 +250,12 @@ All badges in one place.
     :target: https://requires.io/github/zsiciarz/siciarz.net/requirements/?branch=master
     :alt: Requirements Status
 
+.. image:: https://david-dm.org/zsiciarz/siciarz.net.svg
+     :target: https://david-dm.org/zsiciarz/siciarz.net
+
+.. image:: https://david-dm.org/zsiciarz/siciarz.net/dev-status.svg
+     :target: https://david-dm.org/zsiciarz/siciarz.net#info=devDependencies
+
 .. image:: https://travis-ci.org/zsiciarz/siciarz.net.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/siciarz.net
 
