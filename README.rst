@@ -269,6 +269,12 @@ All badges in one place.
     :target: https://requires.io/github/zsiciarz/variablestars.net/requirements/?branch=master
     :alt: Requirements Status
 
+.. image:: https://david-dm.org/zsiciarz/variablestars.net.svg
+     :target: https://david-dm.org/zsiciarz/variablestars.net
+
+.. image:: https://david-dm.org/zsiciarz/variablestars.net/dev-status.svg
+     :target: https://david-dm.org/zsiciarz/variablestars.net#info=devDependencies
+
 .. image:: https://travis-ci.org/zsiciarz/variablestars.net.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/variablestars.net
 
