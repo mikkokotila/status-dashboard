@@ -262,6 +262,15 @@ All badges in one place.
 .. image:: https://coveralls.io/repos/zsiciarz/siciarz.net/badge.svg?branch=master
   :target: https://coveralls.io/r/zsiciarz/siciarz.net?branch=master
 
+`skyrim-alchemy-toolbox <https://github.com/zsiciarz/skyrim-alchemy-toolbox>`_
+==============================================================================
+
+.. image:: https://david-dm.org/zsiciarz/skyrim-alchemy-toolbox.svg
+     :target: https://david-dm.org/zsiciarz/skyrim-alchemy-toolbox
+
+.. image:: https://david-dm.org/zsiciarz/skyrim-alchemy-toolbox/dev-status.svg
+     :target: https://david-dm.org/zsiciarz/skyrim-alchemy-toolbox#info=devDependencies
+
 `variablestars.net <https://github.com/zsiciarz/variablestars.net>`_
 ====================================================================
 
