@@ -38,8 +38,8 @@ All badges in one place.
 `django-envelope <https://github.com/zsiciarz/django-envelope>`_
 ================================================================
 
-.. image:: https://requires.io/github/zsiciarz/django-envelope/requirements.svg?branch=develop
-    :target: https://requires.io/github/zsiciarz/django-envelope/requirements/?branch=develop
+.. image:: https://requires.io/github/zsiciarz/django-envelope/requirements.svg?branch=master
+    :target: https://requires.io/github/zsiciarz/django-envelope/requirements/?branch=master
     :alt: Requirements Status
 
 .. image:: https://img.shields.io/pypi/v/django-envelope.svg
@@ -58,7 +58,7 @@ All badges in one place.
     :target: https://pypi.python.org/pypi/django-envelope/
     :alt: Wheel Status
 
-.. image:: https://travis-ci.org/zsiciarz/django-envelope.svg?branch=develop
+.. image:: https://travis-ci.org/zsiciarz/django-envelope.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/django-envelope
 
 .. image:: https://coveralls.io/repos/zsiciarz/django-envelope/badge.svg
