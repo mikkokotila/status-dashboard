@@ -10,8 +10,8 @@ All badges in one place.
 .. image:: https://travis-ci.org/zsiciarz/24daysofrust.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/24daysofrust
 
-.. image:: http://clippy.bashy.io/github/zsiciarz/24daysofrust/master/badge.svg
-    :target: http://clippy.bashy.io/github/zsiciarz/24daysofrust/master/log
+.. image:: https://clippy.bashy.io/github/zsiciarz/24daysofrust/master/badge.svg
+    :target: https://clippy.bashy.io/github/zsiciarz/24daysofrust/master/log
 
 `aquila <https://github.com/zsiciarz/aquila>`_
 ==============================================
@@ -130,8 +130,8 @@ All badges in one place.
 .. image:: https://travis-ci.org/zsiciarz/euler.rs.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/euler.rs
 
-.. image:: http://clippy.bashy.io/github/zsiciarz/euler.rs/master/badge.svg
-    :target: http://clippy.bashy.io/github/zsiciarz/euler.rs/master/log
+.. image:: https://clippy.bashy.io/github/zsiciarz/euler.rs/master/badge.svg
+    :target: https://clippy.bashy.io/github/zsiciarz/euler.rs/master/log
 
 `gtlaunch <https://github.com/GoldenLine/gtlaunch>`_
 ====================================================
@@ -240,8 +240,8 @@ All badges in one place.
 .. image:: https://travis-ci.org/rustwarsaw/rustwarsaw.org.svg?branch=master
     :target: https://travis-ci.org/rustwarsaw/rustwarsaw.org
 
-.. image:: http://clippy.bashy.io/github/rustwarsaw/rustwarsaw.org/master/badge.svg
-    :target: http://clippy.bashy.io/github/rustwarsaw/rustwarsaw.org/master/log
+.. image:: https://clippy.bashy.io/github/rustwarsaw/rustwarsaw.org/master/badge.svg
+    :target: https://clippy.bashy.io/github/rustwarsaw/rustwarsaw.org/master/log
 
 `siciarz.net <https://github.com/zsiciarz/siciarz.net>`_
 ========================================================
