@@ -10,8 +10,8 @@ All badges in one place.
 .. image:: https://travis-ci.org/zsiciarz/24daysofrust.svg?branch=master
     :target: https://travis-ci.org/zsiciarz/24daysofrust
 
-.. image:: https://clippy.bashy.io/github/zsiciarz/24daysofrust/master/badge.svg
-    :target: https://clippy.bashy.io/github/zsiciarz/24daysofrust/master/log
+.. image:: https://ci.appveyor.com/api/projects/status/ys82q4b43td2mxb7?svg=true
+    :target: https://ci.appveyor.com/project/zsiciarz/24daysofrust
 
 `aquila <https://github.com/zsiciarz/aquila>`_
 ==============================================
