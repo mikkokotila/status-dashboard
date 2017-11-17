@@ -46,10 +46,6 @@ All badges in one place.
     :target: https://pypi.python.org/pypi/django-envelope/
     :alt: Latest PyPI version
 
-.. image:: https://img.shields.io/pypi/dm/django-envelope.svg
-    :target: https://pypi.python.org/pypi/django-envelope/
-    :alt: Number of PyPI downloads
-
 .. image:: https://img.shields.io/pypi/pyversions/django-envelope.svg
     :target: https://pypi.python.org/pypi/django-envelope/
     :alt: Supported Python versions
@@ -71,10 +67,6 @@ All badges in one place.
     :target: https://pypi.python.org/pypi/django-markitup/
     :alt: Latest PyPI version
 
-.. image:: https://img.shields.io/pypi/dm/django-markitup.svg
-    :target: https://pypi.python.org/pypi/django-markitup/
-    :alt: Number of PyPI downloads
-
 .. image:: https://img.shields.io/pypi/pyversions/django-markitup.svg
     :target: https://pypi.python.org/pypi/django-markitup/
     :alt: Supported Python versions
@@ -92,10 +84,6 @@ All badges in one place.
 .. image:: https://img.shields.io/pypi/v/django-pgallery.svg
     :target: https://pypi.python.org/pypi/django-pgallery/
     :alt: Latest PyPI version
-
-.. image:: https://img.shields.io/pypi/dm/django-pgallery.svg
-    :target: https://pypi.python.org/pypi/django-pgallery/
-    :alt: Number of PyPI downloads
 
 .. image:: https://img.shields.io/pypi/pyversions/django-pgallery.svg
     :target: https://pypi.python.org/pypi/django-pgallery/
@@ -140,10 +128,6 @@ All badges in one place.
     :target: https://pypi.python.org/pypi/gtlaunch/
     :alt: Latest PyPI version
 
-.. image:: https://img.shields.io/pypi/dm/gtlaunch.svg
-    :target: https://pypi.python.org/pypi/gtlaunch/
-    :alt: Number of PyPI downloads
-
 .. image:: https://img.shields.io/pypi/pyversions/gtlaunch.svg
     :target: https://pypi.python.org/pypi/gtlaunch/
     :alt: Supported Python versions
@@ -169,10 +153,6 @@ All badges in one place.
     :target: https://pypi.python.org/pypi/pyaavso/
     :alt: Latest PyPI version
 
-.. image:: https://img.shields.io/pypi/dm/pyaavso.svg
-    :target: https://pypi.python.org/pypi/pyaavso/
-    :alt: Number of PyPI downloads
-
 .. image:: https://img.shields.io/pypi/pyversions/pyaavso.svg
     :target: https://pypi.python.org/pypi/pyaavso/
     :alt: Supported Python versions
@@ -197,10 +177,6 @@ All badges in one place.
 .. image:: https://img.shields.io/pypi/v/pygcvs.svg
     :target: https://pypi.python.org/pypi/pygcvs/
     :alt: Latest PyPI version
-
-.. image:: https://img.shields.io/pypi/dm/pygcvs.svg
-    :target: https://pypi.python.org/pypi/pygcvs/
-    :alt: Number of PyPI downloads
 
 .. image:: https://img.shields.io/pypi/pyversions/pygcvs.svg
     :target: https://pypi.python.org/pypi/pygcvs/
